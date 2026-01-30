@@ -1,5 +1,4 @@
 from pathlib import Path
-from xmlrpc.client import INTERNAL_ERROR
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 
